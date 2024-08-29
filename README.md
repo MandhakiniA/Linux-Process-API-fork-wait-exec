@@ -45,7 +45,7 @@ int main(void)
 	return 0;
 }
 ~~~
-###OUTPUT
+### OUTPUT
 ![image](https://github.com/user-attachments/assets/f0f0de7e-4a8b-4ee8-878b-910e237f2908)
 
 
@@ -67,7 +67,7 @@ exit(0);}
 }
 ~~~
 
-##OUTPUT
+### OUTPUT
 ![image](https://github.com/user-attachments/assets/3290c461-c83c-4325-8068-7b2c46c162ff)
 
 
@@ -87,7 +87,7 @@ int main()
 ~~~
 
 
-##OUTPUT
+### OUTPUT
 ![image](https://github.com/user-attachments/assets/560d7746-160c-4054-88ed-61445abf7b56)
 
 
